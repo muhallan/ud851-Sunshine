@@ -126,6 +126,64 @@
     <string name="condition_unknown">Unknown (<xliff:g id="conditionId">%1$d</xliff:g>)</string>
 
 
+    <string-array name="dummy_weather_conditions">
+        <item>@string/condition_2xx</item>
+        <item>@string/condition_3xx</item>
+        <item>@string/condition_500</item>
+        <item>@string/condition_501</item>
+        <item>@string/condition_502</item>
+        <item>@string/condition_503</item>
+        <item>@string/condition_504</item>
+        <item>@string/condition_511</item>
+        <item>@string/condition_520</item>
+        <item>@string/condition_521</item>
+        <item>@string/condition_522</item>
+        <item>@string/condition_531</item>
+        <item>@string/condition_600</item>
+        <item>@string/condition_601</item>
+        <item>@string/condition_602</item>
+        <item>@string/condition_611</item>
+        <item>@string/condition_612</item>
+        <item>@string/condition_615</item>
+        <item>@string/condition_616</item>
+        <item>@string/condition_620</item>
+        <item>@string/condition_621</item>
+        <item>@string/condition_622</item>
+        <item>@string/condition_701</item>
+        <item>@string/condition_711</item>
+        <item>@string/condition_721</item>
+        <item>@string/condition_731</item>
+        <item>@string/condition_741</item>
+        <item>@string/condition_751</item>
+        <item>@string/condition_761</item>
+        <item>@string/condition_762</item>
+        <item>@string/condition_771</item>
+        <item>@string/condition_781</item>
+        <item>@string/condition_800</item>
+        <item>@string/condition_801</item>
+        <item>@string/condition_802</item>
+        <item>@string/condition_803</item>
+        <item>@string/condition_804</item>
+        <item>@string/condition_900</item>
+        <item>@string/condition_901</item>
+        <item>@string/condition_902</item>
+        <item>@string/condition_903</item>
+        <item>@string/condition_904</item>
+        <item>@string/condition_905</item>
+        <item>@string/condition_906</item>
+        <item>@string/condition_951</item>
+        <item>@string/condition_952</item>
+        <item>@string/condition_953</item>
+        <item>@string/condition_954</item>
+        <item>@string/condition_955</item>
+        <item>@string/condition_956</item>
+        <item>@string/condition_957</item>
+        <item>@string/condition_958</item>
+        <item>@string/condition_959</item>
+        <item>@string/condition_960</item>
+        <item>@string/condition_961</item>
+        <item>@string/condition_962</item>
+    </string-array>
     <!-- - - - - - - - - - - -->
     <!-- Used by NetworkUtils-->
     <!-- - - - - - - - - - - -->
